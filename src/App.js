@@ -48,7 +48,7 @@ const translations = {
       dataTables: "Data Tables"
     },
     metrics: {
-      cyprusKeyMetrics: "Cyprus Key Metrics",
+      cyprusKeyMetrics: "Cyprus Key Metrics1",
       euAverageMetrics: "EU Average Metrics",
       unemploymentRate: "Unemployment Rate",
       employmentRate: "Employment Rate",
